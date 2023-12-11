@@ -1,0 +1,52 @@
+{
+  "expo": {
+    "name": "shen-food-app",
+    "slug": "shen-food-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sheeeeeeeeenn.shenfoodapp"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.sheeeeeeeeenn.shenfoodapp"
+    },
+    "scheme": "shen-food-app",
+    "web": {
+      "favicon": "./assets/logo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "57efd2ae-21e6-42d5-9ad0-d86907e0180f"
+      }
+    },
+     "plugins": [
+      [
+        "expo-updates",
+        {
+          "username": "sheeeeeeeeenn"
+        }
+      ]
+    ],
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/57efd2ae-21e6-42d5-9ad0-d86907e0180f"
+    }
+  }
+}
