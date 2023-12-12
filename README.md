@@ -1,6 +1,6 @@
 # Shen-Food-App 
 
-My first mobile application using React Native, Supabase ( database ) , Expo Router, Redux    
+My first mobile application using React Native, Supabase ( database ) , Expo Router, and Redux.   
 
 install Expo Go (application) 
 
@@ -9,7 +9,6 @@ install Expo Go (application)
 1. Download or Clone the files
 2. Install all dependencies
    **npm install**
-3. then
-   **npm start**
+3. **npm start**
    to run the application
-4. scan the QR code or enter manually the url
+4. scan the QR code or enter the url manually
