@@ -1,6 +1,6 @@
 # Shen-Food-App 
 
-My first mobile application using React Native      
+My first mobile application using React Native, Supabase ( database ) , Expo Router, Redux    
 
 install Expo Go (application) 
 
